@@ -28,7 +28,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [os.environ.get('C(_HOSTNAME'),
-                 'e-commerce-samalty.c9users.io']
+                 'e-commerce-samalty.c9users.io',
+                 'ecommerce-mini-project.herokuapp.com']
 
 
 # Application definition
