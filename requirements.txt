@@ -23,4 +23,4 @@ six==1.5.2
 stripe==2.7.0
 unattended-upgrades==0.1
 urllib3==1.23
-wheel==0.24.0
+wheel==0.38.1
